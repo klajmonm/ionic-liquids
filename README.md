@@ -3,6 +3,6 @@ Ionic liquids
 
 Supporting data for our studies regarding ionic liquids:
 
-  -- Optimized Gas-Phase Geometries of Ionic Liquids (pairs and individual ions)
+  -- Optimized Gas-Phase Structures of Ionic Liquids (IL-pairs and individual IL-forming ions)
 
-  -- Gibbs Energies of Cation-Anion Pairing in the Gas Phase
+
